@@ -1,0 +1,33 @@
+#cv-form
+{
+   
+}
+#cv-template
+{
+    display: none;
+}
+.myimg
+{
+    border-radius: 50%;
+    width: 200px;
+}
+
+.background
+{
+    background-color: orange;
+}
+
+.big-size
+{
+    font-size: 35px;
+    
+}
+.small-size
+{
+    font-size: 10px;
+    
+}
+body
+{
+background-image: url("./images/images.jpeg");
+}
